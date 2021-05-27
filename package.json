@@ -1,0 +1,19 @@
+{
+  "name": "ajs-homeworks",
+  "version": "1.0.0",
+  "description": "netology task",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnnaKulikovskikh/ajs-homeworks.git"
+  },
+  "author": "Anna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnnaKulikovskikh/ajs-homeworks/issues"
+  },
+  "homepage": "https://github.com/AnnaKulikovskikh/ajs-homeworks#readme"
+}
